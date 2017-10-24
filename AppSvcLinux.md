@@ -9,7 +9,6 @@ To complete this quickstart:
 * [Install Git](https://git-scm.com/)
 * [Install Node.js and NPM](https://nodejs.org/)
 
-[!INCLUDE [quickstarts-free-trial-note](../../includes/quickstarts-free-trial-note.md)]
 In a terminal window, run the following command to clone the sample app repository to your local machine.
 
 ```bash
@@ -35,7 +34,5 @@ npm start
 Open a web browser, and navigate to the sample app at `http://localhost:1337`.
 
 You see the **Hello World** message from the sample app displayed in the page.
-
-![Sample app running locally](media/app-service-web-get-started-nodejs-poc/localhost-hello-world-in-browser.png)
 
 In your terminal window, press **Ctrl+C** to exit the web server.
